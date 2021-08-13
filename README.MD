@@ -1,4 +1,4 @@
-- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Note : this code use serveurs-minecraft.com api !`
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Note : this code use a google api !`
 
 
 ## Generate QR code with $_GET request named "url"
