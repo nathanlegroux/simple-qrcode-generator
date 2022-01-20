@@ -75,5 +75,4 @@ echo 'error';
  } ?>
 ```
 
-## Live version here : https://arni.fr/qr/
 
